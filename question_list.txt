@@ -1,0 +1,25 @@
+-> ARRAYS:  1. 2sum
+            2. Best Time to buy and Sell Stocks
+            3. Contains Duplicate
+            4. Maximum Subarray
+            5. IsSubsequence
+            6. Sorted squared Array
+            7. Product of Array except Self
+            8. Maximum Product Subarray
+            9. 3Sum
+            10. 3Sum Closest
+            11. Move Zeros
+            12. Monotonic Array
+            13. Find the Duplicate Number
+            14. Merge Intervals
+            15. Longest Mountain in Array
+            16. Search in Rotated Array
+            17. Find minimum in Rotated Array
+            18. Spiral Matrix
+            19. Shortest Unsorted Continuos Subarray
+            20. Longest Consecutive Sequence
+            21. Diagonal Traverse
+            22. Container with Most Water
+            23. Minimum Area Rectangle
+            24. Candy
+            25. Max Points on a Line
